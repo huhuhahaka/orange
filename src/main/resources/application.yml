@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: orange
+
+server:
+  port: 8888
+
+
+# 日志
+# token
+# oauth
+# mybatis-plus
+
