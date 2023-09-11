@@ -8,6 +8,7 @@ public class OrangeApplication {
 
   public static void main(String[] args) {
     SpringApplication.run(OrangeApplication.class, args);
+    System.out.println("测试代码加密问题");
   }
 
 }
